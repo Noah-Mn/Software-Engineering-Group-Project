@@ -1,0 +1,33 @@
+.App {
+    text-align: left;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+    font-size: calc(10px + 2vmin);
+    color: grey;
+  }
+  
+  
+    
+  li a:hover {
+    background-color: rgb(59, 59, 238);
+  }
+   .active {
+    color: rgb(128, 84, 4);
+  }
+li{
+    background-color:white ;
+  }
+
+
+  
