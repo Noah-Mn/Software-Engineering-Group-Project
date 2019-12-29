@@ -3,8 +3,6 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./componets/Navbar";
 
-//import './login';
-// import { Button, Form, FormGroup, Label, Input } from "reactstrap";
 
 class App extends Component {
   render() {
