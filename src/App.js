@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-//import Profile from './Components/Profile.js'
+
 
 class App extends Component {
   render() {
