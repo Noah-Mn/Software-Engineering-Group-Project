@@ -2,9 +2,11 @@
   text-align: left;
 }
 
+
 .App-logo {
   height: 40vmin;
 }
+
 
 .App-header {
   background-color:blue;
@@ -20,6 +22,7 @@
 .App-link {
   color: #6e3404;
 }
+
 .body{
   background-color: blue;
 }
