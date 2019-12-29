@@ -1,0 +1,25 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color:blue;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: grey;
+}
+
+.App-link {
+  color: #6e3404;
+}
+.body{
+  background-color: blue;
+}
